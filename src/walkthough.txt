@@ -1,0 +1,2 @@
+npx create-react-app react-socketio-chat --template typescript
+npm install socket.io-client react-bootstrap bootstrap react-router-dom bootstrap-icons
